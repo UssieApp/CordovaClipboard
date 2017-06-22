@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-clipboard",
+  "name": "CordovaClipboard",
   "version": "0.1.0",
   "description": "Clipboard management plugin for Cordova/PhoneGap",
   "keywords": [ "clipboard", "copy", "paste" ],
@@ -7,7 +7,7 @@
   "license": "MIT",
   "author": "Verso Solutions LLC",
   "cordova": {
-    "id": "cordova-plugin-clipboard",
+    "id": "CordovaClipboard",
     "platforms": [ "android", "ios", "windows8" ]
   },
   "repository": {
