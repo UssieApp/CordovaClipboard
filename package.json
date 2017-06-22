@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Clipboard management plugin for Cordova/PhoneGap",
   "keywords": [ "clipboard", "copy", "paste" ],
-  "homepage": "https://github.com/VersoSolutions/CordovaClipboard",
+  "homepage": "https://github.com/UssieApp/CordovaClipboard",
   "license": "MIT",
   "author": "Verso Solutions LLC",
   "cordova": {
@@ -12,6 +12,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/VersoSolutions/CordovaClipboard"
+    "url": "https://github.com/UssieApp/CordovaClipboard"
   }
 }
